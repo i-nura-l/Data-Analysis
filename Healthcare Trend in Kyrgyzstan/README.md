@@ -51,6 +51,14 @@ This project presents a data-driven exploration of healthcare trends in the Kyrg
 - Histograms and box plots for disease distributions by region
 - Pie charts for disease share per year
 
+![1.png](image%2F1.png)
+![2.png](image%2F2.png)
+![6.png](image%2F6.png)
+![15.png](..%2F..%2F..%2FDownloads%2Fdata_analysis_project%2Fimages%2F15.png)
+
+
+
+
 ## Major Findings
 
 - **Healthcare Capacity vs. Population Growth**: Healthcare infrastructure has not kept pace with population increases.
